@@ -1,0 +1,16 @@
+.idea/
+test-results
+*.xml
+*.html
+test-results/*.json
+package-lock.json
+api-test/Main/customs/*.pyc
+api-test/Main/customs/__pycache__/*.pyc
+.DS_Store
+api-test/.DS_Store
+api-test/Tribe/.DS_Store
+*.webm
+web/Main/customs/__pycache__/*.pyc
+*.png
+android-apps/Main/resources/devices.txt
+*.mp4
